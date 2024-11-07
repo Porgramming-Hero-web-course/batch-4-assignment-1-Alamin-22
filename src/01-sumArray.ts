@@ -2,7 +2,7 @@
   //Write a TypeScript function sumArray that takes an array of numbers and returns the sum of all elements in the array.
 
   const sumArray = (arr: number[]): number => {
-    let totalSum = 0;
+    let totalSum: number = 0;
     for (const num of arr) {
       totalSum += num;
     }
