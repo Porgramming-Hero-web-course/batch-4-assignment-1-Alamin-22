@@ -19,7 +19,7 @@
 
   const NewCar1 = new Car("Tesla", "22", 2022);
   const NewCar2 = new Car("Honda", "Civic", 2018);
-  const NewCar3 = new Car("GoribErGari", "Gorib-1920", 2018);
+  const NewCar3 = new Car("GoribErGari", "Gorib-1920", 2014);
 
   console.log(NewCar1.getCarAge());
   console.log(NewCar2.getCarAge());
