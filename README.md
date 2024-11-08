@@ -46,7 +46,7 @@ type EmployeeDetails = Person & Employee;
 
 const employee: EmployeeDetails = {
   name: "Md. Al Amin Mollik",
-  age: 30,
+  age: 21,
   employeeId: 12345,
   jobTitle: "Software Developer",
 };
