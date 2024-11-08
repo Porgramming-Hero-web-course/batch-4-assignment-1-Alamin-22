@@ -16,8 +16,8 @@ type FullStackDeveloper = "Mern Stack Developer" | "Full Stack SQL Developer";
 
 type Developer = FrontEndDeveloper | FullStackDeveloper;
 
-const newDeveloper1: Developer = "Mern Stack Developer"; // Valid
-const newDeveloper2: Developer = "Full Stack SQL Developer"; // Valid
+const newDeveloper1: Developer = "Mern Stack Developer"; 
+const newDeveloper2: Developer = "Full Stack SQL Developer"; 
 ```
 
 ## What are Intersection Types (`&`)?
